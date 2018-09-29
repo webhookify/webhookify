@@ -1,14 +1,14 @@
 {
   "name": "webhookify",
   "version": "1.0.0",
-  "description": "Implementation of the webhookify protocol",
+  "description": "Implementation of the webhookify protocol.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jangxx/webhookify.git"
+    "url": "git+https://github.com/webhookify/webhookify.git"
   },
   "keywords": [
     "webhookify"
@@ -16,9 +16,9 @@
   "author": "jangxx <jangxx@protonmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jangxx/webhookify/issues"
+    "url": "https://github.com/webhookify/webhookify/issues"
   },
-  "homepage": "https://github.com/jangxx/webhookify#readme",
+  "homepage": "https://www.webhookify.net",
   "dependencies": {
     "merge-options": "^1.0.1",
     "ursa": "^0.9.4",
